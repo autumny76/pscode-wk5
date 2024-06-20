@@ -12,10 +12,26 @@ print on the screen the sum of those 2 numbers
 
 // Exercise 2: Check if a Number is Even or Odd
 
-(Your pseudocode here)
+
+-Determine number or range
+-If the number is divisible by 2 without a remainder (number % 2 == 0):
+-Print "The number is even"
+-Else:
+-Print "The number is odd"
+End
+
 
 // Exercise 3: 
 Write pseudo code that will perform the following.    
 
 a) Read in 5 separate numbers.   
 b) Calculate the average of the five numbers.
+
+1. Start
+2. Initialize a variable 'total' to 0
+3. For each of the 5 iterations:
+    a. Determine Number or use 1-15
+    b. Add the number to 'total'
+4. Calculate the average by dividing 'total' by 5
+5. Print the average
+6. End
